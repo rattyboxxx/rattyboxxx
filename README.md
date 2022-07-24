@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rattybox
+- 👋 Hi, I’m Hung Dao Duy, but you can call me Ratty
 - 👀 I’m interested in Machine Learning and Deep Learning
 - 🌱 I’m currently learning Artificial Intelligence at FPT University, Hanoi, Vietnam
 - 💞️ I’m looking to collaborate on someone for someday
