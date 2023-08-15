@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hung Dao Duy, but you can call me Ratty
-- 👀 I’m interested in Machine Learning, Deep Learning and recently Big Data
+- 👀 I’m interested in Machine Learning, Deep Learning and recently Big Data Mining
 - 🌱 I’m currently learning Artificial Intelligence at FPT University, Hanoi, Vietnam
 - 💞️ I’m looking to collaborate on someone for someday
 - 📫 How to reach me: not now
