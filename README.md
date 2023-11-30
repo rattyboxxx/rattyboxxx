@@ -1,12 +1,13 @@
 # 🔥 Hi, I’m Hung Dao Duy, but you can call me Ratty
-- 👀 I’m interested in Machine Learning, Deep Learning, and recently Big Data Mining
-- 🧑🏼‍🎓 I'm a bachelor's student at the [FPT University Hanoi](https://daihoc.fpt.edu.vn/).
-- 💞️ I’m looking to collaborate with someone someday
-- 📫 How to reach me: not now
 
 <a href="https://www.linkedin.com/in/rattyboxxx/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
+- 👀 I’m interested in Machine Learning, Deep Learning, and recently Big Data Mining
+- 🧑🏼‍🎓 I'm a bachelor's student at the [FPT University Hanoi](https://daihoc.fpt.edu.vn/).
+- 💞️ I’m looking to collaborate with someone someday
+- 📫 How to reach me: not now
 
 💼 Currently working part-time as a Data Engineer intern at [Phenikaa-X](https://phenikaa-x.com/).
 
