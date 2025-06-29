@@ -6,11 +6,13 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-- 🧑🏼‍🎓 Studying at [FPT University Hanoi](https://daihoc.fpt.edu.vn/)
-- 💼 Currently working part-time as a Data Engineer intern at [Phenikaa-X](https://phenikaa-x.com/)
-- 👀 Interested in Machine Learning, Deep Learning, and recently Big Data Mining
+- 🧑🏼‍🎓 Gradute student at [FPT University Hanoi](https://daihoc.fpt.edu.vn/)
+- 💼 Currently working full-time as a DevOps Engineer at [Samsung R&D Vietnam](https://www.facebook.com/samsungvietnamrnd/)
+- 👀 Interested in DevOps, a little of Data Engineering and Machine Learning, especially Competitve Programming
 - 💞️ Looking to collaborate with someone someday
-- 📫 How to reach me: not now
+- 📫 How to reach me: Not right now, please be patient!
+
+THANKS FOR SPENDING TIME READING THIS README
 
 <p align="middle">
     <img align="centre" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rattyboxxx&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&theme=tokyonight" height=180px/><img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rattyboxxx&hide=html,jupyter%20notebook&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight&bg_color=00000000" />
