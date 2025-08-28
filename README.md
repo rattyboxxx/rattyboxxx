@@ -1,6 +1,3 @@
-<img alt="Static Badge" src="https://img.shields.io/badge/born-2002-blue"> <img alt="Static Badge" src="https://img.shields.io/badge/in-Vietnam-green">
-
-
 <a href="https://www.linkedin.com/in/rattyboxxx/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
